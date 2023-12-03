@@ -1,5 +1,9 @@
 ## Hello geeks!!! ✨👋
 
+<p align="right"> 
+<img src="https://komarev.com/ghpvc/?username=KavindaMethsara&color=brightgreen" alt="watching_count" />
+</p>
+
 ### Who am I?
 
 I am a highly motivated person who always loves to use insight, strategy, and creativity to face the challenge of being told 'no' and turning it into a 'yes'. I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices. Since I'm a full-time entry-level Software Engineer, I also like to learn and share my code.
