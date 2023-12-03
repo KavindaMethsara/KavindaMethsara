@@ -18,13 +18,13 @@ I am a highly motivated person who always loves to use insight, strategy, and cr
 
 ### 💬 Ask me about ... -->
 
-### 👯 I’m looking to collaborate on ...
-
-I would like to collaborate on different projects with different teams.
-
 ### ⚡ Fun fact: ...
 
 As a software engineer, I enjoy exploring the world, singing tunes from different cultures, and pedaling through life on my bicycle. When not immersed in code, I unwind by watching movies, creating a perfect balance between the digital and the analog in my adventurous journey.
+
+### 👯 I’m looking to collaborate on ...
+
+I would like to collaborate on different projects with different teams. Reach me using the below links..
 
 ### 📫 How to reach me: ...
 
