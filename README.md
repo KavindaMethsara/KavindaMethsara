@@ -28,7 +28,12 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 ### 📫 How to reach me: ...
 
-* <img src="./linkedin.png" height="20"/>&nbsp; [LinkedIn](https://www.linkedin.com/in/kavinda-methsara-25865b210/)
+* <img src="./Assets/img/icons/linkedin.png" height="20"/>&nbsp; [LinkedIn](https://www.linkedin.com/in/kavinda-methsara-25865b210/)
+* <img src="./Assets/img/icons/stackoverflow.png" height="20"/>&nbsp; [Stack Overflow](https://stackoverflow.com/users/15594081/methsara)
+* <img src="./Assets/img/icons/github-mark-white.png" height="20"/>&nbsp; [GitHub](https://github.com/KavindaMethsara)
+* <img src="./Assets/img/icons/instagram.png" height="20"/>&nbsp; [Instagram](https://www.instagram.com/_methzara_/)
+* <img src="./Assets/img/icons/twitter.png" height="20"/>&nbsp; [Twitter](https://twitter.com/methsara98)
+* <img src="./Assets/img/icons/facebook.png" height="20"/>&nbsp; [Facebook](https://web.facebook.com/nwty.methsara/)
 
 
 ### ⚡ Fun fact: ...
