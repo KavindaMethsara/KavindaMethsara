@@ -10,7 +10,7 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavindaMethsara&&exclude_repo=KavindaMethsara&layout=compact&theme=dracula" alt="languages"/>
 
 
-### 🌱 I’m currently learning ...
+<!-- ### 🌱 I’m currently learning ...
 
 
 
@@ -22,8 +22,10 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 
 
-### 💬 Ask me about ...
+### 💬 Ask me about ... 
 
+
+### ⚡ Fun fact: ...-->
 
 
 ### 📫 How to reach me: ...
@@ -36,5 +38,5 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 * <img src="./Assets/img/icons/facebook.png" height="20"/>&nbsp; [Facebook](https://web.facebook.com/nwty.methsara/)
 
 
-### ⚡ Fun fact: ...
+
 
