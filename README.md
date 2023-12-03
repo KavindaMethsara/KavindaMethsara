@@ -28,6 +28,7 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 ### 📫 How to reach me: ...
 
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/linkedin.png" height="20"/>&nbsp; [LinkedIn](https://www.linkedin.com/in/kavinda-methsara-25865b210/)
 
 
 ### ⚡ Fun fact: ...
