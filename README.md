@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices. I am a highly motivated person who always loves to use Insight, Strategy and Creativity to the challenge of being told ‘no’ and turning it into a ‘yes'.Since I'm (still) a full-time Software Engineer, I also like to learn and share my code.
+I am a highly motivated person who always loves to use insight, strategy, and creativity to face the challenge of being told 'no' and turning it into a 'yes'. I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices. Since I'm a full-time entry-level Software Engineer, I also like to learn and share my code.
 
 ### My stats
 
@@ -12,21 +12,19 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 <!-- ### 🌱 I’m currently learning ...
 
-
-
-### 👯 I’m looking to collaborate on ...
-
-
-
 ### 🤔 I’m looking for help with ...
 
 
 
-### 💬 Ask me about ... 
+### 💬 Ask me about ... -->
 
+### 👯 I’m looking to collaborate on ...
 
-### ⚡ Fun fact: ...-->
+I would like to collaborate on different projects with different teams.
 
+### ⚡ Fun fact: ...
+
+As a software engineer, I enjoy exploring the world, singing tunes from different cultures, and pedaling through life on my bicycle. When not immersed in code, I unwind by watching movies, creating a perfect balance between the digital and the analog in my adventurous journey.
 
 ### 📫 How to reach me: ...
 
